@@ -1,0 +1,48 @@
+
+
+@media screen and (min-width: 992px) {
+    .mobile-menu {
+        display: none;
+    } 
+     
+}
+
+
+/* max width */
+@media screen and (max-width:1339px) {
+    
+}
+
+@media screen and (max-width:1199px) {
+    
+}
+
+@media screen and (max-width:1023px) {
+    
+}
+ 
+@media screen and (max-width:991px) {
+    .mobile-menu {
+        display: block;
+    }
+    .header_section {
+        display: none;
+    }
+}
+
+@media screen and (max-width:767px) {
+    
+}
+
+@media screen and (max-width:575px) {
+    
+}
+
+
+@media screen and (max-width:375px) {
+    
+}
+
+@media screen and (max-width:320px) {
+    
+}
